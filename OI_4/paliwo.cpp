@@ -85,7 +85,7 @@ Zużywamy 5 jednostek paliwa aby dojechać do stacji drugiej.
 
 Na drugiej stacji tankujemy do pełna (5 jednostek) bak benzyną o koszcie 3.
 Zużywamy 5 jednostek paliwa o koszcie 1 i 3 jednostki paliwa o koscie 3.
-https://www.youtube.com/watch?v=xu-WuJtOl0c
+
 Na trzeciej stacji sprzedajemy 2 jednostki bezyny o koszcie 3 i tankujemy do
 pełna (10 jednostek) paliwo o koszcie 2.
 Zużywamy 5 jednostek paliwa aby dojechać do kolejnej stacji.
