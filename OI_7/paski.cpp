@@ -57,7 +57,7 @@ był on zrozumiały dla jak największej liczby odbiorców.
 /*
 Autorzy rozwiązania tego zadania w niebieskiej książeczce nazwali to zadanie
 "prawdopodobnie jednym z najtrudniejszych zadań w historii Olimpiady". W tym
-pliku pokaże w jaki sposób można łatwo rozwiązać to zadanie korzystając
+pliku pokażę w jaki sposób można łatwo rozwiązać to zadanie korzystając
 z liczb Sprague'a-Grandy'ego. Nie będę tutaj przedstawiał całego wykładu na
 temat tych liczb (to jest materiał na bloga), ale szybko przypomnę najważniejsze
 informacje na temat tych liczb.
@@ -69,11 +69,11 @@ Liczby Sprague'a-Grandy'ego dotyczą gier, które spełniają następujące wła
 
 Każdej pozycji w grze przypisujemy następującą liczbę naturalną  (zwaną liczbą
 Sprague'a-Grundy'ego):
- - jeśli z tej pozycji nie można wykonać żadnego ruchu to przypisujemy jej
-   wartość 0,
- - w przeciwnym przypadku niech V będzie zbiorem liczb Sprague'a-Grundy'ego
-   wszystkich pozycji do których można dojść po wykonaniu jednego ruchu z tej
-   pozycji; nadejemy jej wartość mex(V).
+ - 0 jeśli z tej pozycji nie można wykonać żadnego ruchu
+ - mex(V) w przeciwnym przypadku
+
+Przy czym V jest zbiorem liczb Sprague'a-Grundy'ego wszystkich pozycji do
+których można dojść po wykonaniu jednego ruchu z danej pozycji.
 
 Funkcja mex (od ang. minimum excluded) oznacza najmniejszą liczbę naturalną nie
 występującą w V. Dla przykładu:
@@ -96,7 +96,7 @@ Twierdzenie (trudniejsze): W tak utworzonej grze, liczba Sprague'a-Grundy'ego
 jest równa xorowi liczb Sprague'a-Grundy'ego obu pozycji dla odpowiednich gier.
 Twierdzenie to uogólnia się na dowolną, skończoną liczbę gier.
 
-W grze w paski. Jeśli mamy pasek o długości 30 i przykryjemy go paskiem
+W grze w paski, jeśli mamy pasek o długości 30 i przykryjemy go paskiem
 o długości 5, możemy otrzymać dwa paski o długości 12 i 13. Wtedy gracze grają
 w grę w której do wyboru mają dwa paski i tylko na jednym z nich mogą wykonać
 ruch. Jest to gra z naszego lematu! Zatem aby policzyć liczbę Sprague'a-
