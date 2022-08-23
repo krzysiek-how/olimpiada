@@ -33,7 +33,6 @@
 - Słonie - XVI OI
 - Gildie - XVII OI
 - Test na inteligencję - XVII OI
-- Morskie opowieści - XX OI
 - Usuwanka - XX OI
 - Bar sałatkowy - XXI OI
 - Flappy Bird - XIV OI
