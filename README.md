@@ -1,10 +1,16 @@
  # Rozwiązania zadań z OI
 
- Projekt jest zbiorem rozwiązań zadań z Olimpiady Informatycznej. Kody zostały napisane w sposób czytelny wraz z komentarzami tłumaczącymi ideę rozwiązania i trudniejsze fragmenty kodu. Programy zostały napisane w języku C++.
+ W repozytorium tym znajdziesz zrozumiałe, przystępne i dobrze wytłumaczona rozwiązania z przeszłych Olimpiad Informatycznych.
+ Projekt ten powstał wyłącznie w celach edukacyjnych i ma taki charakter.
+ Programy zostały napisane w języku C++ a w plikach źródłowych znajdziesz komentarze z ideą rozwiązania oraz opisanymi trudniejszymi fragmentami kodu.
 
  ## Treści zadań
 
  Treści zadań można znaleźć na stronie [Olimpiady Informatycznej](https://oi.edu.pl/) oraz portalu [Szkopuł](https://szkopul.edu.pl/).
+
+ ## Blog
+
+ Gdybyś był zainteresowany obszerniejszym omówieniem przedstawionych zagadnień to zaglądnij na krzysiek.how gdzie prezentowane są rozwiązania do innych zadań i omówienie algorytmów i struktur danych w obszerniejszej formie.
 
  ## Wkrótce dostępne
 
